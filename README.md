@@ -26,4 +26,4 @@ Thank's to wunderground.com for making weather that available. Easily, reliable 
 
 ## License
 
-WTFPL
+MIT
